@@ -1,0 +1,28 @@
+3. Como acrescentar o texto da prova
+No código, procura este bloco:
+<!-- TEXTO: escrever aqui a descrição da prova -->
+
+<p>
+    TEXTO — Escrever aqui o texto sobre a prova.
+</p>
+
+<!-- FIM DO TEXTO -->
+
+
+Podes substituir o parágrafo pelo teu texto. Por exemplo:
+<!-- TEXTO: escrever aqui a descrição da prova -->
+
+<p>
+    A primeira prova do campeonato Grupo C da época 2026/2027
+    realizou-se na pista da Recreslot.
+</p>
+
+<p>
+    Foi uma corrida marcada por ...
+</p>
+
+<!-- FIM DO TEXTO -->
+
+
+Cada parágrafo deve ficar entre as etiquetas <p> e </p>. Podes criar tantos parágrafos quantos precisares.
+4. Uma nota importante sobre as ligações
